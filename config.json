@@ -1,0 +1,14 @@
+{
+    "channels": {
+        "review_display": "1380712603386511531"
+    },
+    "colors": {
+        "primary": "#BAF329",
+        "success": "#00FF00",
+        "error": "#FF0000",
+        "info": "#00BFFF"
+    },
+    "emojis": {
+        "star": "⭐"
+    }
+}

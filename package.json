@@ -1,0 +1,20 @@
+{
+    "name": "ulog_discordbot",
+    "version": "1.0.0",
+    "description": "Discord bot for ULOG Store product reviews with Tebex integration",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "start": "node index.js",
+        "dev": "node --watch index.js"
+    },
+    "keywords": ["discord", "bot", "tebex", "reviews"],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^14.16.3",
+        "dotenv": "^16.4.7",
+        "axios": "^1.7.9",
+        "mysql2": "^3.11.5"
+    }
+}
